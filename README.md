@@ -2,6 +2,10 @@
 
 Unofficial desktop client made using electron
 
+# Screenshot
+
+![gambar](https://cdn.discordapp.com/attachments/1125286222194016266/1126087690782261319/image.png)
+
 # Supported OS
 
 - Linux
@@ -10,5 +14,6 @@ Unofficial desktop client made using electron
 
 # Dev
 
-`npm run install`
-`npm run start`
+`npm run install` - For install all packages
+
+`npm run start` - For run debug of application
