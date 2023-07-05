@@ -7,3 +7,8 @@ Unofficial desktop client made using electron
 - Linux
 - Windows
 - MacOS
+
+# Dev
+
+`npm run install`
+`npm run start`
