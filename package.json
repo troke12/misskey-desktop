@@ -1,6 +1,6 @@
 {
   "name": "misskey-desktop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Misskey Desktop unofficial desktop client",
   "main": "main.js",
   "scripts": {
