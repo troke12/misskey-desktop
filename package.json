@@ -7,6 +7,25 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron ."
   },
+  "build": {
+    "appId": "com.troke12.misskey",
+    "productName": "Misskey Desktop",
+    "directories": {
+      "output": "dist"
+    },
+    "mac": {
+      "category": "public.app-category.social-networking",
+      "icon": "assets/512x512.png"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "assets/256x256.png"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "assets/256x256.png"
+    }
+  },
   "keywords": [],
   "author": "troke12",
   "license": "ISC",
